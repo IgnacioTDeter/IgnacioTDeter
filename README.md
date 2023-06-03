@@ -6,7 +6,8 @@
 <ul>
      <li> Soy apacionado por el diseño web 🖥</li>
      <li> Estoy interesado en el UX/UI </li>
-     <li> 
+     <li> Manejo software principalmente con Python 🐍 </li>
+     <li> Uso Blender como hobby 🎬</li>
 </ul>
     
 <!--
