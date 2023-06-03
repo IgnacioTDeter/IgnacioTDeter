@@ -1,7 +1,11 @@
 <div align="center">
      <h1> Hi! I'm IgnacioTDeter </h1>
 </div>
-    
+
+## Sobre mi
+<ul>
+     <li> Soy apacionado por el diseño web </li>
+</ul>
     
 <!--
 **IgnacioTDeter/IgnacioTDeter** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
