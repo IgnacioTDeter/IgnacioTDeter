@@ -4,7 +4,9 @@
 
 ## Sobre mi
 <ul>
-     <li> Soy apacionado por el diseño web </li>
+     <li> Soy apacionado por el diseño web 🖥</li>
+     <li> Estoy interesado en el UX/UI </li>
+     <li> 
 </ul>
     
 <!--
