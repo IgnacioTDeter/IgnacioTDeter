@@ -10,6 +10,12 @@
      <li> I use Blender as a hobby 🎬</li>
 </ul>
 
+<br></br>
+<br></br>
+<br></br>
+<br></br>
+<br></br>
+
 
 - 🔭 I’m currently working on [Proyecto Pañol](https://github.com/IgnacioTDeter/Proyecto-Final.git)
 
