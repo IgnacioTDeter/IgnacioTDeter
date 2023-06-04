@@ -4,10 +4,10 @@
 
 ## Sobre mi
 <ul>
-     <li> Soy apacionado por el diseño web 🖥</li>
-     <li> Estoy interesado en el UX/UI </li>
-     <li> Manejo software principalmente con Python 🐍 </li>
-     <li> Uso Blender como hobby 🎬</li>
+     <li> I am passionate about web design 🖥</li>
+     <li> I am interested in UX/UI </li>
+     <li> I primarily work with Python software 🐍 </li>
+     <li> I use Blender as a hobby 🎬</li>
 </ul>
     
 <!--
