@@ -15,7 +15,7 @@
 
 - 🔭 I’m currently working on [Proyecto Pañol](https://github.com/IgnacioTDeter/Proyecto-Final.git)
 
-- 🌱 I’m currently learning **Python, Javascript**
+- 🌱 I’m currently learning **Javascript** and i want to learn **React**
 
 - 📫 How to reach me **detergithub@gmail.com**
 
