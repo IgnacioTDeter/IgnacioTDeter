@@ -6,7 +6,6 @@
 <ul>
      <li> I am passionate about web design 🖥</li>
      <li> I am interested in UX/UI </li>
-     <li> I primarily work with Python software 🐍 </li>
      <li> I use Blender as a hobby 🎬</li>
 </ul>
 
