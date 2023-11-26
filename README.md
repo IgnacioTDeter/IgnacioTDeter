@@ -12,9 +12,9 @@
 
 - 🔭 I’m currently working on [Proyecto Pañol](https://github.com/IgnacioTDeter/Proyecto-Final.git)
 
-- 🌱 I’m currently learning **Javascript** and i want to learn **React**
+- 🌱 I’m currently learning **Tkinter** and i want to learn **.NET**
 
-- 📫 How to reach me **detergithub@gmail.com**
+- 📫 How to reach me **ignaciotdeter@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
