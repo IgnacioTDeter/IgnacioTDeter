@@ -5,12 +5,11 @@
 ## Sobre mi
 <ul>
      <li> I am passionate about web design 🖥</li>
-     <li> I am interested in UX/UI </li>
-     <li> I use Blender as a hobby 🎬</li>
+     <li> I am interested in C# </li>
 </ul>
 
 
-- 🔭 I’m currently working on [Proyecto Pañol](https://github.com/IgnacioTDeter/Proyecto-Final.git)
+- 🔭 I’m currently working on [Wordle]
 
 - 🌱 I’m currently learning **React** and i want to learn **NodeJs**
 
