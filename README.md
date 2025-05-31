@@ -10,12 +10,6 @@
 </div>
 
 
-<!--- snake -->
-<div align="center">
-  <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/readme/resources/img/grid-snake.svg"
-       alt="snake" /></a>
-</div>
-
 
 <!--h2 without bottom border-->
 <div id="user-content-toc">
@@ -26,11 +20,11 @@
 
 
 <!--Intro start-->
-- 🔭 I’m currently working on **React, Javascript, HTML, CSS, NodeJS**
+- 🔭 I’m currently working on **SQL, C#**
 
-- 🌱 I’m currently learning **Backend**
+- 🌱 I’m currently learning **Cybersecurity**
 
-- ☁️ I've keen interest in cloud computing. So,I'm learning **AWS**
+- ☁️ I am very interested in **networking**, so I am expanding my knowledge in this area
 
 - 📫 Feel free to reach me out **ignacioTDeter@gmail.com**
 
